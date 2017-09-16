@@ -1,5 +1,5 @@
 /*
-Autor: Mario Penavades Suárez y Alberto Jimenez Aliste
+Autor: Mario Penavades Suárez
 Fecha: Martes 7 Marzo 2017
 Asignatura: CORE
 */
